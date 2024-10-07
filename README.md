@@ -1,16 +1,7 @@
-# prak_navigasi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dhafa Firjatullah Hikmal/362358302074/2A TRPL
+Praktikum 5: Mambangun Navigasi di Flutter
+Tugas Praktikum 2: 
+Pada hasil akhir dari aplikasi belanja yang telah anda selesaikan, tambahkan atribut foto produk, stok, dan rating.
+Tambahkan Nama dan NIM di footer aplikasi belanja Anda.
+![image](https://github.com/user-attachments/assets/0b2b6dbd-c5fb-4522-b6d6-1f8911a2b6d3)
+![image](https://github.com/user-attachments/assets/faa24abd-fab7-4243-b5cd-1e8db8c17bf0)
